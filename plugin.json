@@ -1,0 +1,13 @@
+{
+  "author": "HologramAgent",
+  "description": "Lua 插件全功能示例：工具(no_memory/cleaner) + 阶段钩子 + 通道 + 数据类 API",
+  "entry": "main.lua",
+  "name": "luademo",
+  "name_en": "Lua Demo",
+  "name_zh": "Lua 全功能示例",
+  "sdk": "1.4.0",
+  "tags": [
+    "luademo"
+  ],
+  "version": "0.1.0"
+}
